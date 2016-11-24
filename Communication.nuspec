@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Com.Ericmas001.Communication</id>
+        <version>$version$</version>
+        <title>Com.Ericmas001.Communication</title>
+        <authors>Ericmas001</authors>
+        <licenseUrl>https://raw.githubusercontent.com/Com-Ericmas001/Communication/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/Com-Ericmas001/Communication</projectUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Com.Ericmas001.Communication</description>
+        <summary>Com.Ericmas001.Communication</summary>
+        <releaseNotes>Development Version</releaseNotes>
+        <copyright />
+        <language>en</language>
+    </metadata>
+    <files>
+    	<file src="Com.Ericmas001.Communication\bin\$configuration$\Com.Ericmas001.Communication.dll" target="lib\net45\" />
+  </files>
+</package>
