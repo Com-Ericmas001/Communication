@@ -1,6 +1,7 @@
 # Com.Ericmas001.Communication
+[![com-ericmas001 MyGet Build Status](https://www.myget.org/BuildSource/Badge/com-ericmas001?identifier=f163ee37-cee7-4fb2-b0d9-d1d647a6d70f)](https://www.myget.org/)
 
-###Current Version: 0.1.0 *(2016-06-11)*
+###Current Version: 0.1.1 *(2016-11-24)*
 <table align="center" width="100%">
     <tbody>
         <tr>
